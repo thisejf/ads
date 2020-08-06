@@ -1,4 +1,5 @@
-# ads
+# Ads
+<https://developers.google.com/doubleclick-gpt/guides/get-started>
 ## Viewability best practices
 <https://support.google.com/admanager/answer/6199883?hl=en>
 ### Ad placement
